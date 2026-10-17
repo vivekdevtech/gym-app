@@ -1,0 +1,302 @@
+{
+  "Mon": {
+    "title": "Push (Chest, Shoulder, Triceps)",
+    "rest": false,
+    "exercises": [
+      {
+        "name": "Chest Press",
+        "sets": 3, "reps": 8, "restSec": 90,
+        "variants": [
+          { "name": "Bench Press (Barbell)", "weight": "7.5kg each side" },
+          { "name": "Bench Press Machine", "weight": "Medium weight" },
+          { "name": "Dumbbell Flat Press", "weight": "7.5kg each hand" }
+        ]
+      },
+      {
+        "name": "Upper Chest",
+        "sets": 3, "reps": 10, "restSec": 75,
+        "variants": [
+          { "name": "Feet-on-Bench Push-ups", "weight": "Bodyweight" },
+          { "name": "Bench Press Machine (Upper Chest)", "weight": "Medium weight" }
+        ]
+      },
+      {
+        "name": "Lower Chest",
+        "sets": 3, "reps": 10, "restSec": 75,
+        "variants": [
+          { "name": "Hands-on-Bench Push-ups", "weight": "Bodyweight" },
+          { "name": "Dumbbell Flat Press (Lower Chest)", "weight": "7.5kg each hand" },
+          { "name": "Wall Push-ups", "weight": "Bodyweight" }
+        ]
+      },
+      {
+        "name": "Shoulder Press",
+        "sets": 3, "reps": 8, "restSec": 90,
+        "variants": [
+          { "name": "Shoulder Press Machine", "weight": "7.5kg each side" },
+          { "name": "Dumbbell Shoulder Press", "weight": "7.5kg each hand" }
+        ]
+      },
+      {
+        "name": "Lateral Raise",
+        "sets": 3, "reps": 12, "restSec": 60,
+        "variants": [
+          { "name": "Dumbbell Lateral Raise", "weight": "2.5-5kg each hand" },
+          { "name": "Incline Lean-Away Lateral Raise", "weight": "2.5kg each hand" },
+          { "name": "Leaning Single Arm Lateral Raise", "weight": "2.5kg each hand" }
+        ]
+      },
+      {
+        "name": "Triceps",
+        "sets": 3, "reps": 12, "restSec": 60,
+        "variants": [
+          { "name": "Single Dumbbell Overhead Extension", "weight": "10kg" },
+          { "name": "Push-ups", "weight": "Bodyweight" }
+        ]
+      }
+    ]
+  },
+  "Tue": {
+    "title": "Pull (Back, Biceps, Forearm)",
+    "rest": false,
+    "exercises": [
+      {
+        "name": "Vertical Pull",
+        "sets": 4, "reps": 10, "restSec": 90,
+        "variants": [
+          { "name": "Lat Pulldown Wide Grip", "weight": "30kg" },
+          { "name": "Lat Pulldown Close Grip", "weight": "30kg" },
+          { "name": "Lat Pulldown Reverse Grip", "weight": "25kg" }
+        ]
+      },
+      {
+        "name": "Row",
+        "sets": 3, "reps": 10, "restSec": 90,
+        "variants": [
+          { "name": "Barbell Row Overhand", "weight": "15kg total" },
+          { "name": "Barbell Row Underhand", "weight": "15kg total" },
+          { "name": "Single Dumbbell Row", "weight": "20kg" }
+        ]
+      },
+      {
+        "name": "Back Extra",
+        "sets": 3, "reps": 12, "restSec": 75,
+        "variants": [
+          { "name": "Dumbbell Pullover", "weight": "7.5kg" },
+          { "name": "Dumbbell Shrugs", "weight": "10kg each hand" },
+          { "name": "Barbell Shrugs", "weight": "20kg total" }
+        ]
+      },
+      {
+        "name": "Rear Delt",
+        "sets": 3, "reps": 12, "restSec": 60,
+        "variants": [
+          { "name": "Bent-over Rear Delt Raise", "weight": "2.5kg each hand" }
+        ]
+      },
+      {
+        "name": "Biceps",
+        "sets": 3, "reps": 10, "restSec": 60,
+        "variants": [
+          { "name": "Dumbbell Bicep Curl", "weight": "7.5kg each hand" },
+          { "name": "Hammer Curl", "weight": "7.5kg each hand" },
+          { "name": "Concentration Curl", "weight": "7.5kg" },
+          { "name": "Barbell Curl", "weight": "10kg total" }
+        ]
+      },
+      {
+        "name": "Forearm",
+        "sets": 3, "reps": 12, "restSec": 45,
+        "variants": [
+          { "name": "Wrist Curl", "weight": "5kg each hand" },
+          { "name": "Reverse Wrist Curl", "weight": "2.5kg each hand" },
+          { "name": "Reverse Curl", "weight": "5kg each hand" }
+        ]
+      },
+      {
+        "name": "Grip",
+        "sets": 3, "reps": 30, "restSec": 45,
+        "variants": [
+          { "name": "Farmer's Walk (30 sec)", "weight": "20kg each hand" },
+          { "name": "Plate Pinch (30 sec)", "weight": "5kg plate" }
+        ]
+      }
+    ]
+  },
+  "Wed": {
+    "title": "Legs + Core",
+    "rest": false,
+    "exercises": [
+      {
+        "name": "Squat",
+        "sets": 3, "reps": 10, "restSec": 120,
+        "variants": [
+          { "name": "Smith Squat", "weight": "10kg each side" },
+          { "name": "Goblet Squat", "weight": "10kg dumbbell" }
+        ]
+      },
+      {
+        "name": "Quads",
+        "sets": 3, "reps": 12, "restSec": 75,
+        "variants": [
+          { "name": "Leg Extension", "weight": "Max stack (80kg)" }
+        ]
+      },
+      {
+        "name": "Calves",
+        "sets": 3, "reps": 15, "restSec": 45,
+        "variants": [
+          { "name": "Calf Raise (Bodyweight)", "weight": "Bodyweight" },
+          { "name": "Dumbbell Calf Raise (Both Hands)", "weight": "10kg each hand" }
+        ]
+      },
+      {
+        "name": "Abs",
+        "sets": 3, "reps": 15, "restSec": 45,
+        "variants": [
+          { "name": "Sit-ups", "weight": "Bodyweight" },
+          { "name": "Crunches", "weight": "Bodyweight" },
+          { "name": "Russian Twist", "weight": "Bodyweight" }
+        ]
+      },
+      {
+        "name": "Plank",
+        "sets": 3, "reps": 30, "restSec": 45,
+        "variants": [
+          { "name": "Plank (30 sec hold)", "weight": "Bodyweight" }
+        ]
+      }
+    ]
+  },
+  "Thu": {
+    "title": "Rest Day (Class)",
+    "rest": true,
+    "exercises": []
+  },
+  "Fri": {
+    "title": "Upper (Chest + Back + Forearm)",
+    "rest": false,
+    "exercises": [
+      {
+        "name": "Chest Press",
+        "sets": 3, "reps": 10, "restSec": 90,
+        "variants": [
+          { "name": "Dumbbell Flat Press", "weight": "7.5kg each hand" },
+          { "name": "Bench Press Machine", "weight": "Medium weight" },
+          { "name": "Bench Press (Barbell)", "weight": "7.5kg each side" }
+        ]
+      },
+      {
+        "name": "Shoulder Press",
+        "sets": 3, "reps": 10, "restSec": 90,
+        "variants": [
+          { "name": "Dumbbell Shoulder Press", "weight": "7.5kg each hand" },
+          { "name": "Shoulder Press Machine", "weight": "7.5kg each side" }
+        ]
+      },
+      {
+        "name": "Vertical Pull",
+        "sets": 3, "reps": 10, "restSec": 90,
+        "variants": [
+          { "name": "Lat Pulldown Wide Grip", "weight": "30kg" },
+          { "name": "Lat Pulldown Close Grip", "weight": "30kg" },
+          { "name": "Lat Pulldown Reverse Grip", "weight": "25kg" }
+        ]
+      },
+      {
+        "name": "Row",
+        "sets": 3, "reps": 10, "restSec": 75,
+        "variants": [
+          { "name": "Single Dumbbell Row", "weight": "20kg" },
+          { "name": "Barbell Row Overhand", "weight": "15kg total" }
+        ]
+      },
+      {
+        "name": "Biceps",
+        "sets": 3, "reps": 12, "restSec": 60,
+        "variants": [
+          { "name": "Dumbbell Bicep Curl", "weight": "7.5kg each hand" },
+          { "name": "Hammer Curl", "weight": "7.5kg each hand" },
+          { "name": "Concentration Curl", "weight": "7.5kg" }
+        ]
+      },
+      {
+        "name": "Triceps",
+        "sets": 3, "reps": 12, "restSec": 60,
+        "variants": [
+          { "name": "Single Dumbbell Overhead Extension", "weight": "10kg" },
+          { "name": "Push-ups", "weight": "Bodyweight" }
+        ]
+      },
+      {
+        "name": "Forearm",
+        "sets": 2, "reps": 15, "restSec": 45,
+        "variants": [
+          { "name": "Reverse Curl", "weight": "5kg each hand" },
+          { "name": "Wrist Curl", "weight": "5kg each hand" },
+          { "name": "Reverse Wrist Curl", "weight": "2.5kg each hand" }
+        ]
+      }
+    ]
+  },
+  "Sat": {
+    "title": "Lower + Deadlift Day",
+    "rest": false,
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "sets": 4, "reps": 6, "restSec": 120,
+        "variants": [
+          { "name": "Deadlift (Barbell)", "weight": "55kg" }
+        ]
+      },
+      {
+        "name": "Hamstrings",
+        "sets": 3, "reps": 10, "restSec": 90,
+        "variants": [
+          { "name": "Romanian Deadlift", "weight": "40kg" },
+          { "name": "Dumbbell Stiff-Leg Deadlift", "weight": "7.5kg each hand" },
+          { "name": "Glute Bridge", "weight": "Bodyweight" }
+        ]
+      },
+      {
+        "name": "Legs",
+        "sets": 3, "reps": 10, "restSec": 75,
+        "variants": [
+          { "name": "Lunges", "weight": "5kg each hand" },
+          { "name": "Bench Step-ups", "weight": "5kg each hand" },
+          { "name": "Leg Extension", "weight": "Max stack (80kg)" }
+        ]
+      },
+      {
+        "name": "Calves",
+        "sets": 3, "reps": 15, "restSec": 45,
+        "variants": [
+          { "name": "Calf Raise (Bodyweight)", "weight": "Bodyweight" },
+          { "name": "Dumbbell Calf Raise (Both Hands)", "weight": "10kg each hand" }
+        ]
+      },
+      {
+        "name": "Abs",
+        "sets": 3, "reps": 15, "restSec": 45,
+        "variants": [
+          { "name": "Leg Raise", "weight": "Bodyweight" },
+          { "name": "Sit-ups", "weight": "Bodyweight" },
+          { "name": "Crunches", "weight": "Bodyweight" }
+        ]
+      },
+      {
+        "name": "Plank",
+        "sets": 3, "reps": 30, "restSec": 45,
+        "variants": [
+          { "name": "Plank (30 sec hold)", "weight": "Bodyweight" }
+        ]
+      }
+    ]
+  },
+  "Sun": {
+    "title": "Rest Day",
+    "rest": true,
+    "exercises": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "upper": [
+    { "name": "Treadmill", "detail": "5 min walk ya halka run" },
+    { "name": "Arm Circles", "detail": "10 aage, 10 peeche" },
+    { "name": "Wrist Circles", "detail": "10 aage, 10 peeche" },
+    { "name": "Push-ups", "detail": "10 reps halke" },
+    { "name": "Khali Rod Press", "detail": "10 reps, sirf rod se" }
+  ],
+  "pull": [
+    { "name": "Treadmill", "detail": "5 min walk ya halka run" },
+    { "name": "Arm Circles", "detail": "10 aage, 10 peeche" },
+    { "name": "Wrist Circles", "detail": "10 aage, 10 peeche" },
+    { "name": "Khali Rod Row", "detail": "10 reps, sirf rod se, peeth seedhi" }
+  ],
+  "lower": [
+    { "name": "Cycle", "detail": "5 min halka cycle" },
+    { "name": "Bodyweight Squat", "detail": "15 reps" },
+    { "name": "Leg Swings", "detail": "10 har pair ke liye" },
+    { "name": "Khali Rod Hip Hinge", "detail": "10 reps, peeth seedhi" },
+    { "name": "Glute Bridge", "detail": "12 reps, bodyweight" }
+  ]
+}
